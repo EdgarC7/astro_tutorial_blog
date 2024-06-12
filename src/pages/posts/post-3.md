@@ -1,4 +1,5 @@
 ---
+layout: ../../layouts/MarkdownPostLayout.astro
 title: My Third Blog Post
 author: Astro learner 
 description: "I had some challegenes, but asking in the community really helped!"
